@@ -41,3 +41,17 @@ section{
     height: 100%;
     margin-top: 40px;
 }
+.anas{
+    width: 50%;
+}
+.anas img{
+    width: 60%;
+}
+.m{
+    color: rgb(170, 11, 77);
+}
+.b{
+    text-align: justify;
+    color: rgb(6, 0, 97);
+    margin-right: 30px;
+}
