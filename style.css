@@ -1,10 +1,10 @@
 body{
     font-family: 'Anton', sans-serif;
     background-image: url(39.jpg);
-    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0px;
  
 }
  
@@ -25,7 +25,7 @@ section{
     display: flex;
 }
 .anis{
-    margin-top: 60px;
+    margin: 40px;
     text-decoration: none;
     color: white;
     border-radius: 6px;
@@ -38,7 +38,6 @@ section{
 }
 .anas-a img{
     width: 100%;
-    height: auto;
+    height: 100%;
     margin-top: 40px;
-    margin-left: 55px;
 }
