@@ -8,5 +8,5 @@ body{
     text-transform: capitalize;
 }
 section{
-    display: flexx;
+    display: flex;
 }
