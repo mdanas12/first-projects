@@ -1,12 +1,44 @@
 body{
     font-family: 'Anton', sans-serif;
-    background-color: aquamarine;
+    background-image: url(39.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+ 
+h1{
+    font-size: 55px;
+    text-transform: capitalize;
+    margin-left: 50px;
+}
+.boss{
+    color: darkred;
 }
 .boy{
-    background-color: azure;
-    color: darkmagenta;
+    margin-left: 20px;
+    color:rgb(170, 11, 77);
     text-transform: capitalize;
 }
 section{
     display: flex;
+}
+.anis{
+    margin-top: 60px;
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+    background-image: linear-gradient(red,blue);
+    background-color: deeppink;
+    padding: 15px 30px;
+}
+.anas-a{
+    width: 50%;
+}
+.anas-a img{
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 55px;
 }
