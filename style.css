@@ -55,3 +55,17 @@ section{
     color: rgb(6, 0, 97);
     margin-right: 30px;
 }
+.boys{
+    display: flex;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+.like{
+    border: rgb(53, 11, 29);
+}
+.boss{
+    border: 8px solid blueviolet;
+    border-image-slice: 1;
+    box-shadow: 12px 12px blueviolet;
+    color:rgb(13, 180, 35);
+}
